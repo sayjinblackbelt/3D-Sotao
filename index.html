@@ -2,14 +2,26 @@
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Sótão 3D — NEXA Studio</title>
-<style>body{font-family:system-ui,sans-serif;max-width:900px;margin:auto;padding:32px;line-height:1.6}h1{font-size:2.6rem}section{margin:32px 0;padding:24px;border:1px solid #ddd;border-radius:16px}a{color:inherit}</style>
+<title>Sótão 3D — Ecossistema NEXA Studio</title>
+<meta name="description" content="Sótão 3D — criação digital, impressão 3D, produtos e desenvolvimento do negócio.">
+<style>
+:root{--bg:#f7f7f5;--card:#fff;--text:#181818;--muted:#666;--line:#ddd;--accent:#111}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55}
+main{max-width:1080px;margin:auto;padding:24px}nav{display:flex;gap:16px;flex-wrap:wrap;padding:10px 0 28px}nav a{color:var(--text);text-decoration:none;font-weight:650}
+.hero{padding:54px 0 34px}.eyebrow{font-size:.9rem;font-weight:750;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}h1{font-size:clamp(2.6rem,7vw,5.2rem);line-height:1;margin:12px 0}h2{margin-top:0}p{color:var(--muted)}.hero p{font-size:1.15rem;max-width:760px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px}.card a{color:var(--text);font-weight:700}.flow{font-weight:700;font-size:1.05rem;word-spacing:.2em}.tag{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:6px 11px;margin:3px;font-size:.9rem}
+section{margin:34px 0}footer{border-top:1px solid var(--line);padding:26px 0;margin-top:50px;font-size:.9rem}
+</style>
 </head>
 <body>
-<header><h1>Sótão 3D</h1><p><strong>NEXA Studio → Sótão 3D</strong></p><p>Criação digital, produção física e desenvolvimento de produtos em impressão 3D.</p></header>
-<section><h2>Ecossistema</h2><p><strong>NEXA Studio</strong> cria conceitos, artes e modelos. <strong>Sótão 3D</strong> transforma projetos em produtos físicos, com impressão, acabamento, controle de qualidade e comercialização.</p><p><a href="https://github.com/sayjinblackbelt/NEXA-Studio">NEXA Studio</a> · <a href="https://github.com/sayjinblackbelt/3D-Sotao">Business Case</a></p></section>
-<section><h2>Linhas de produtos</h2><ul><li>Decoração</li><li>Geek e colecionáveis</li><li>Produtos funcionais</li><li>Personalizados</li></ul></section>
-<section><h2>Fluxo</h2><p>Ideia → criação → validação → orçamento → produção → acabamento → qualidade → entrega → feedback.</p></section>
-<section><h2>Business Case</h2><p>O negócio é documentado a partir de dados reais. Informações financeiras públicas são apresentadas por faixas percentuais, preservando dados comerciais sensíveis.</p></section>
-<footer><p>© Sótão 3D · Ecossistema NEXA Studio</p></footer>
+<main>
+<nav><a href="#ecossistema">Ecossistema</a><a href="#produtos">Produtos</a><a href="#processo">Processo</a><a href="#gestao">Gestão</a><a href="#docs">Documentação</a></nav>
+<header class="hero"><div class="eyebrow">NEXA Studio → Sótão 3D</div><h1>Sótão 3D</h1><p>Criação digital, produção física e desenvolvimento de produtos em impressão 3D. Um negócio real documentado por processos, dados e evolução contínua.</p></header>
+<section id="ecossistema"><div class="card"><h2>Ecossistema</h2><p><strong>NEXA Studio</strong> atua na criação visual e desenvolvimento de projetos. <strong>Sótão 3D</strong> transforma projetos em produtos físicos, com impressão, acabamento, controle de qualidade, estoque e comercialização.</p><p><a href="https://github.com/sayjinblackbelt/NEXA-Studio">NEXA Studio</a> · <a href="https://github.com/sayjinblackbelt/3D-Sotao">Business Case no GitHub</a></p></div></section>
+<section id="produtos"><h2>Linhas de produtos</h2><div class="grid"><div class="card"><h3>Decoração</h3><span class="tag">Bustos</span><span class="tag">Esculturas</span><span class="tag">Flores</span></div><div class="card"><h3>Geek</h3><span class="tag">Colecionáveis</span><span class="tag">Personagens</span></div><div class="card"><h3>Funcionais</h3><span class="tag">Organizadores</span><span class="tag">Suportes</span></div><div class="card"><h3>Personalizados</h3><span class="tag">Sob encomenda</span><span class="tag">Projetos especiais</span></div></div></section>
+<section id="processo"><div class="card"><h2>Fluxo</h2><p class="flow">Ideia → criação → validação → protótipo → produção → acabamento → qualidade → catálogo → venda → feedback → NEXA</p></div></section>
+<section id="gestao"><h2>Gestão baseada em dados</h2><div class="grid"><div class="card"><h3>Produção</h3><p>Impressões, horas de máquina, filamento, falhas e retrabalho.</p></div><div class="card"><h3>Comercial</h3><p>Contatos, orçamentos, vendas, conversão, ticket e recorrência.</p></div><div class="card"><h3>Financeiro</h3><p>Custos, faturamento, resultado e reinvestimento, com dados sensíveis mantidos no controle privado.</p></div><div class="card"><h3>NEXA</h3><p>Projetos, protótipos, versões, produtos próprios e feedback de mercado.</p></div></div></section>
+<section id="docs"><h2>Documentação</h2><div class="grid"><div class="card"><h3>Inventário</h3><a href="docs/INVENTARIO-PRODUTOS.md">Padrão de cadastro</a></div><div class="card"><h3>Custos</h3><a href="docs/FICHA-CUSTO-PRECIFICACAO.md">Ficha de custo e preço</a></div><div class="card"><h3>Produção</h3><a href="docs/LOG-PRODUCAO.md">Log de produção</a></div><div class="card"><h3>Estoque e comercial</h3><a href="docs/ESTOQUE-E-COMERCIAL.md">Operação comercial</a></div><div class="card"><h3>Produtos próprios</h3><a href="docs/PRODUTOS-PROPRIOS.md">Pipeline NEXA → Sótão</a></div><div class="card"><h3>Dashboard e escala</h3><a href="docs/DASHBOARD-E-ESCALA.md">Framework de gestão</a></div><div class="card"><h3>Fluxo do ecossistema</h3><a href="docs/FLUXO-NEXA-STUDIO-SOTAO-3D.md">NEXA Studio → Sótão 3D</a></div><div class="card"><h3>Fluxo operacional</h3><a href="docs/FLUXO-OPERACIONAL.md">Operação ponta a ponta</a></div></div></section>
+<footer>© Sótão 3D · Ecossistema NEXA Studio · Business Case real na origem, sanitizado na publicação.</footer>
+</main>
 </body></html>
