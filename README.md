@@ -8,7 +8,7 @@
 
 O **Sótão 3D** integra um ecossistema em duas frentes complementares:
 
-**NEXA Studio → criação visual e desenvolvimento de arte/modelos → Sótão 3D → produção física → acabamento → comercialização**
+**NEXA Studio → criação visual e desenvolvimento de arte/modelos → Sótão 3D → produção física → acabamento → comercialização → feedback → NEXA Studio**
 
 ### NEXA Studio — Núcleo de criação
 
@@ -33,6 +33,8 @@ O Sótão 3D transforma criações digitais em produtos físicos por impressão 
 | Arte/modelos | Controle de estoque |
 | Comunicação visual | Embalagem |
 | Preparação de projetos | Vendas e encomendas |
+
+O fluxo operacional detalhado está documentado em [`docs/FLUXO-NEXA-STUDIO-SOTAO-3D.md`](docs/FLUXO-NEXA-STUDIO-SOTAO-3D.md).
 
 Essa separação permite acompanhar a cadeia completa sem confundir a operação criativa com a operação produtiva/comercial.
 
