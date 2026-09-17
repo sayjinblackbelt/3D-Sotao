@@ -10,9 +10,13 @@
 
 A página pública é a principal vitrine atual do projeto. Ela apresenta o posicionamento comercial, o processo de encomenda, as linhas de criação e a relação entre Sótão 3D e NEXA Studio.
 
+> **Idiomas:** Português · English · Español
+>
+> **Assinatura da marca:** “Se é possível imaginar, temos como criar.”
+
 > **Status da página:** homepage em evolução / validação visual e comercial.
 
-- **Site:** https://sayjinblackbelt.github.io/3D-Sotao/
+- **Site:** https://sayjinblackblackbelt.github.io/3D-Sotao/
 - **Código da página:** [`index.html`](index.html)
 - **Repositório:** https://github.com/sayjinblackbelt/3D-Sotao
 
@@ -24,15 +28,7 @@ O **Sótão 3D** é uma operação de fabricação digital focada principalmente
 
 A proposta não é simplesmente vender objetos impressos em 3D. O objetivo é transformar uma ideia, referência ou necessidade em uma **peça física com identidade própria**.
 
-O cliente pode chegar com:
-
-- uma ideia;
-- uma foto ou referência;
-- um desenho;
-- um modelo 3D;
-- um personagem ou tema;
-- uma necessidade funcional;
-- ou apenas uma descrição do que gostaria de criar.
+O cliente pode chegar com uma ideia, foto, desenho, modelo 3D, personagem, tema, necessidade funcional ou apenas uma descrição do que gostaria de criar.
 
 A partir disso, o projeto pode envolver criação, adaptação, personalização, prototipagem, impressão, acabamento e entrega.
 
@@ -44,41 +40,22 @@ A partir disso, o projeto pode envolver criação, adaptação, personalização
 
 **Imaginar → Conversar → Criar → Validar → Produzir → Entregar**
 
-O catálogo funciona como **vitrine e inspiração**. A produção é orientada principalmente por encomendas e projetos personalizados, evitando tratar estoque como o centro da proposta de valor.
+O catálogo funciona como **vitrine e inspiração**. A produção é orientada principalmente por encomendas e projetos personalizados.
 
 ---
 
 ## 2. O que podemos criar
 
-### Criações autorais
-
-Peças concebidas e desenvolvidas pelo ecossistema Sótão 3D × NEXA Studio, com identidade própria.
-
-### Personalizadas
-
-Peças adaptadas para uma pessoa, ocasião, tema, preferência ou necessidade específica.
-
-### Sob medida
-
-Projetos desenvolvidos para uma demanda concreta, especialmente quando uma solução pronta não atende ao que foi imaginado.
-
-### Geek & colecionáveis
-
-Personagens, miniaturas, peças temáticas e objetos para colecionadores, sempre observando as licenças aplicáveis ao uso comercial.
-
-### Decoração
-
-Bustos, esculturas, flores, objetos e elementos decorativos.
-
-### Funcionais
-
-Organizadores, suportes, acessórios e outras soluções para necessidades do cotidiano.
+- **Criações autorais** — peças concebidas e desenvolvidas pelo ecossistema Sótão 3D × NEXA Studio.
+- **Personalizadas** — adaptações para pessoa, ocasião, tema, preferência ou necessidade.
+- **Sob medida** — projetos desenvolvidos para uma demanda concreta.
+- **Geek & colecionáveis** — personagens, miniaturas e peças temáticas, observando licenças aplicáveis.
+- **Decoração** — bustos, esculturas, flores, objetos e elementos decorativos.
+- **Funcionais** — organizadores, suportes, acessórios e soluções para o cotidiano.
 
 ---
 
 ## 3. Encomendas reais
-
-O Sótão 3D já possui experiência prática com encomendas entregues.
 
 ### Exemplo — Suporte para controle de PS5 · Máscara Samurai
 
@@ -89,20 +66,18 @@ Uma peça funcional e personalizada desenvolvida para receber um controle de PS5
 **Tema:** máscara samurai  
 **Processo:** projeto → impressão 3D → acabamento → entrega
 
-A documentação pública deve diferenciar claramente **encomendas reais entregues**, **criações autorais**, **protótipos** e **conceitos**.
+A documentação pública diferencia **encomendas reais entregues**, **criações autorais**, **protótipos** e **conceitos**.
 
 ---
 
 ## 4. Como funciona uma encomenda
 
 1. **Você imagina** — apresenta a ideia, referência ou necessidade.
-2. **Conversamos** — entendemos o que precisa ser criado e o nível de personalização.
+2. **Conversamos** — entendemos o que precisa ser criado.
 3. **Criamos** — desenvolvemos ou adaptamos o projeto quando necessário.
 4. **Validamos** — verificamos escala, geometria, resistência, impressão e acabamento.
 5. **Produzimos** — realizamos a impressão e os processos de acabamento aplicáveis.
 6. **Você recebe** — a peça é conferida, embalada e entregue ou enviada.
-
-Nem toda encomenda precisa passar por todas as etapas de desenvolvimento. Projetos simples podem ir diretamente para produção; projetos especiais podem exigir prototipagem e iteração.
 
 ---
 
@@ -114,33 +89,13 @@ O Sótão 3D faz parte de um ecossistema criativo com a **NEXA Studio**, mas as 
 
 **Ideias ganham forma.**
 
-Núcleo de criação e desenvolvimento:
-
-- conceito;
-- design;
-- direção visual;
-- arte;
-- desenvolvimento/adaptação de modelos;
-- preparação de projetos;
-- comunicação visual;
-- documentação criativa.
+Núcleo de criação e desenvolvimento: conceito, design, direção visual, arte, desenvolvimento/adaptação de modelos, preparação de projetos, comunicação visual e documentação criativa.
 
 ### Sótão 3D
 
 **Se é possível imaginar, temos como criar.**
 
-Núcleo físico e comercial:
-
-- análise de viabilidade de impressão;
-- preparação no slicer;
-- impressão 3D;
-- acabamento;
-- controle de qualidade;
-- embalagem;
-- orçamento;
-- encomendas e vendas;
-- entrega/envio;
-- registro de custos e indicadores.
+Núcleo físico e comercial: análise de viabilidade de impressão, preparação no slicer, impressão 3D, acabamento, controle de qualidade, embalagem, orçamento, encomendas e vendas, entrega/envio e registro de custos e indicadores.
 
 Fluxo oficial: [`docs/FLUXO-NEXA-STUDIO-SOTAO-3D.md`](docs/FLUXO-NEXA-STUDIO-SOTAO-3D.md).
 
@@ -148,61 +103,28 @@ Fluxo oficial: [`docs/FLUXO-NEXA-STUDIO-SOTAO-3D.md`](docs/FLUXO-NEXA-STUDIO-SOT
 
 ## 6. Estado atual do projeto
 
-### Marca e posicionamento
-
-- foco comercial definido em **impressões autorais e personalizadas**;
-- modelo de produção principalmente **sob encomenda**;
+- foco comercial em **impressões autorais e personalizadas**;
+- produção principalmente **sob encomenda**;
 - assinatura definida: **“Se é possível imaginar, temos como criar.”**;
-- catálogo tratado como vitrine e inspiração;
-- diferenciação clara entre Sótão 3D e NEXA Studio.
-
-### Presença digital
-
 - homepage pública em GitHub Pages;
-- identidade visual própria;
-- estrutura de homepage orientada à conversão e encomendas;
-- seção para criações e categorias;
-- fluxo de encomenda;
-- área institucional NEXA × Sótão;
-- documentação pública do negócio.
-
-### Operação
-
-- 2 impressoras em operação:
-  - Creality Ender 3 V3 SE;
-  - Bambu Lab A1 Mini.
-- PLA como material principal.
-- Produção conforme demanda, disponibilidade de tempo e capacidade.
-- Experiência prática com manutenção, adesão, suportes, cortes, conectores, montagem e acabamento.
-
-### Comercial
-
+- homepage preparada em **PT / EN / ES**;
+- case real publicado com imagem;
+- documentação pública alinhada ao estado atual da operação;
+- 2 impressoras em operação: Creality Ender 3 V3 SE e Bambu Lab A1 Mini;
+- PLA como material principal;
 - encomendas reais já realizadas;
-- vendas iniciais principalmente por indicação e contatos próximos;
-- estrutura comercial em evolução;
-- próximos canais e catálogo devem ser desenvolvidos com base nos dados reais da operação.
+- estrutura comercial em evolução.
 
 ---
 
 ## 7. Infraestrutura atual
-
-### Impressoras
 
 | Equipamento | Uso atual |
 |---|---|
 | Creality Ender 3 V3 SE | produção secundária, testes e peças repetitivas |
 | Bambu Lab A1 Mini | produção principal, peças pequenas/médias e encomendas |
 
-### Recursos de apoio
-
-- PLA de diversas cores;
-- filamento outlet quando fizer sentido para custo/uso;
-- bicos e placas de impressão;
-- ferramentas de manutenção;
-- materiais de acabamento;
-- computador para preparação e gestão;
-- dispositivos móveis para fotografia, catálogo e operação;
-- armazenamento digital e backup.
+PLA de diversas cores, filamento outlet quando fizer sentido, bicos e placas, ferramentas de manutenção, materiais de acabamento, computador, dispositivos móveis e armazenamento digital completam a infraestrutura atual.
 
 ---
 
@@ -284,8 +206,6 @@ Dados financeiros sensíveis devem permanecer no controle privado. O repositóri
 
 ## 11. Documentação
 
-A documentação pública deve acompanhar a evolução real da operação.
-
 ### Operação e produto
 
 - [`docs/INVENTARIO-PRODUTOS.md`](docs/INVENTARIO-PRODUTOS.md)
@@ -307,43 +227,9 @@ A documentação pública deve acompanhar a evolução real da operação.
 
 ## 12. Business case real × publicação pública
 
-O Sótão 3D é documentado a partir da operação real, mas este repositório é público.
+O Sótão 3D é documentado a partir da operação real, mas este repositório é público. Custos unitários detalhados, margens, fluxo de caixa, fornecedores, volumes de compra, indicadores completos de vendas e dados comerciais confidenciais permanecem privados.
 
-### Controle interno / privado
-
-Pode conter:
-
-- custos unitários detalhados;
-- margens;
-- fluxo de caixa;
-- fornecedores;
-- volumes de compra;
-- indicadores completos de vendas;
-- dados comerciais confidenciais.
-
-### GitHub público
-
-Pode conter:
-
-- história e posicionamento;
-- processos;
-- aprendizados;
-- indicadores agregados;
-- metodologia;
-- roadmap;
-- documentação técnica não sensível;
-- cases autorizados;
-- relação entre NEXA Studio e Sótão 3D.
-
-Nunca publicar:
-
-- CPF/RG;
-- endereço residencial;
-- dados bancários;
-- cartões;
-- credenciais, tokens ou chaves de API;
-- dados pessoais de clientes;
-- documentos fiscais ou comerciais confidenciais.
+Nunca publicar CPF/RG, endereço residencial, dados bancários, cartões, credenciais, tokens, chaves de API, dados pessoais de clientes ou documentos fiscais/comerciais confidenciais.
 
 ---
 
@@ -384,6 +270,10 @@ O Sótão 3D existe para aproximar imaginação e matéria.
 **Você imagina. A gente cria.**
 
 ---
+
+**Assinatura Sótão 3D:** Se é possível imaginar, temos como criar.  
+**NEXA Studio:** Ideias ganham forma.  
+**Powered by NEXA Studio.**
 
 **Status:** projeto real em desenvolvimento — operação, marca, homepage e documentação em evolução.
 
