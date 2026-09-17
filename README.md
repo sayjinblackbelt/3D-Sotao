@@ -16,7 +16,7 @@ A página pública é a principal vitrine atual do projeto. Ela apresenta o posi
 
 > **Status da página:** homepage em evolução / validação visual e comercial.
 
-- **Site:** https://sayjinblackblackbelt.github.io/3D-Sotao/
+- **Site:** https://sayjinblackbelt.github.io/3D-Sotao/
 - **Código da página:** [`index.html`](index.html)
 - **Repositório:** https://github.com/sayjinblackbelt/3D-Sotao
 
