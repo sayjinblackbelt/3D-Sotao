@@ -26,7 +26,7 @@ h1{font-size:clamp(3.2rem,8vw,6.5rem);line-height:.88;letter-spacing:-.075em;mar
 .navCta{padding:8px 12px!important;border:1px solid #ffffff22!important;border-radius:999px!important;background:#ffffff08}
 .highlights{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:28px}
 .highlight{margin:0;border:1px solid var(--line);border-radius:20px;overflow:hidden;background:var(--panel)}
-.highlight img{display:block;width:100%;height:240px;object-fit:cover}
+.highlight img{display:block;width:100%;height:auto;aspect-ratio:auto;object-fit:contain;background:#0d1118}
 .highlight figcaption{padding:15px 16px;color:var(--muted);font-size:13px}
 .highlight strong{display:block;color:var(--text);margin-bottom:4px}
 .sectionIntro{max-width:760px}
@@ -41,7 +41,7 @@ h1{font-size:clamp(3.2rem,8vw,6.5rem);line-height:.88;letter-spacing:-.075em;mar
 }
 @media(max-width:620px){
   .highlights{grid-template-columns:1fr}
-  .highlight img{height:auto;aspect-ratio:1/1;object-fit:cover}
+  .highlight img{height:auto;aspect-ratio:auto;object-fit:contain}
 }
 </style>
 </head>
@@ -55,7 +55,7 @@ h1{font-size:clamp(3.2rem,8vw,6.5rem);line-height:.88;letter-spacing:-.075em;mar
 <a href="#criar" data-menu="make">O que fazemos</a>
 <a href="#criacoes" data-menu="creations">Criações</a>
 <a href="./conteudos.html" data-menu="content">Conteúdos</a>
-<a href="#destaques" data-menu="highlights">Destaques</a>
+<a href="#destaques" data-menu="highlights">Galeria</a>
 <a href="#nexa" data-menu="nexa">NEXA × Sótão</a>
 <a class="navCta" href="#ideia" data-menu="order">Sua ideia</a>
 <div class="langs" aria-label="Language"><button class="lang active" data-lang="pt">PT</button><button class="lang" data-lang="en">EN</button><button class="lang" data-lang="es">ES</button></div>
@@ -86,13 +86,14 @@ h1{font-size:clamp(3.2rem,8vw,6.5rem);line-height:.88;letter-spacing:-.075em;mar
 <article class="card"><h3 data-i18n="c.geek">Geek & colecionáveis</h3><p data-i18n="c.geekText">Personagens, miniaturas e peças para colecionadores.</p></article></div></div></section>
 
 <section id="destaques"><div class="w">
-<div class="sectionIntro"><div class="k">04 · Destaques visuais</div><h2>Algumas criações que mostram o que o Sótão pode fazer.</h2>
+<div class="sectionIntro"><div class="k">04 · Destaques visuais</div><h2>Galeria do Sótão: criação, detalhe, referência, preparação e produção.</h2>
 <p class="muted">Aqui entram imagens que ajudam a comunicar variedade: peça, processo, preparação e resultado. O conteúdo completo continua no Hub.</p></div>
 <div class="highlights">
 <figure class="highlight"><img src="./assets/trono-frente.jpg" alt="Trono para smartphone em impressão 3D"><figcaption><strong>Peça personalizada</strong>Conceito + função + presença visual.</figcaption></figure>
 <figure class="highlight"><img src="./assets/trono-costas.jpg" alt="Vista traseira de peça 3D personalizada"><figcaption><strong>Detalhamento</strong>Estrutura, textura e acabamento.</figcaption></figure>
 <figure class="highlight"><img src="./assets/ramses-referencia.jpg" alt="Referência para desenvolvimento de modelo 3D"><figcaption><strong>Da referência ao projeto</strong>Uma ideia pode começar por uma referência.</figcaption></figure>
 <figure class="highlight"><img src="./assets/ramses-slicer.jpg" alt="Preparação de modelo 3D para impressão"><figcaption><strong>Preparação técnica</strong>O digital precisa estar pronto antes da fabricação.</figcaption></figure>
+<figure class="highlight"><img src="./assets/bastidores.jpg" alt="Bastidores da produção em impressão 3D"><figcaption><strong>Bastidores da produção</strong>A fabricação transforma o projeto digital em objeto físico.</figcaption></figure>
 </div></div></section>
 
 <section id="conteudos"><div class="w"><div class="k" data-i18n="content.k">Conteúdo · Bastidores e processo</div><h2 data-i18n="content.title">Veja o que acontece dentro do Sótão.</h2><p class="muted" data-i18n="content.text">Além das peças prontas, mostramos referências, preparação, produção e criações — para você entender como uma ideia chega ao mundo físico.</p><div class="contentBridge"><div><span class="tag">#PorDentroDoSótão</span><span class="tag">#DoDigitalAoReal</span><span class="tag">#CriaçõesDoSótão</span><span class="tag">#SótãoEmProcesso</span></div><div class="actions"><a class="btn primary" href="./conteudos.html" data-i18n="content.button">Explorar conteúdos ↗</a><a class="btn" href="#ideia" data-i18n="content.order">Como encomendar</a></div></div></div></section><section id="encomenda"><div class="w"><div class="k" data-i18n="how.k">04 · Como funciona</div><h2 data-i18n="how.title">Da sua ideia à peça real.</h2><p class="muted" data-i18n="how.text">Você não precisa saber modelar em 3D. Podemos começar com conversa, foto, desenho, referência, modelo ou necessidade.</p><div class="flow">
